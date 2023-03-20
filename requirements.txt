@@ -1,0 +1,6 @@
+boto3
+pandas
+IPython
+python-dotenv
+google-cloud-bigquery
+google-auth

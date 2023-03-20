@@ -1,0 +1,8 @@
+logs
+.env
+cloud_service.json
+tempdata.csv
+dags/.env
+dags/cloud_service.json
+plugins
+dags/__pycache__
