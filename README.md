@@ -1,4 +1,4 @@
-﻿# CoinBase-ETL-Project
+﻿# CoinMarket-ETL-Project
 ### The Architecture of the project
 
 ![my project architecture](https://user-images.githubusercontent.com/122371233/228370238-07bb576d-fc5f-4c48-88ba-9b7509e50edf.png)
